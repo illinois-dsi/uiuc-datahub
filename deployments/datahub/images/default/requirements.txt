@@ -53,7 +53,7 @@ spacy==1.9.0
 qgrid==1.1.1
 #
 # ls 88-3; neuro
-lxml==3.8.0
+lxml==4.6.3
 tqdm==4.15.0
 mne==0.14.1
 nibabel==2.1.0
