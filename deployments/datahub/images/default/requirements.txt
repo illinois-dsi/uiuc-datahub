@@ -22,7 +22,7 @@ ipympl==0.2.1
 folium==0.9.1
 #
 # r
-jupyter-server-proxy==1.0.1
+jupyter-server-proxy==3.2.1
 jupyter-rsession-proxy==1.0b6
 #
 # cogsci88;
