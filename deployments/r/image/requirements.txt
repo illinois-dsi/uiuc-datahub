@@ -5,7 +5,7 @@ nbresuse==0.3.2
 okpy==1.14.15
 
 # Issue #1222, for PH 142 - Spring 2020
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 
 # Issue #1239, for PH 142 - Spring 2020
 requests==2.22.0
